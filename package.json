@@ -1,0 +1,24 @@
+{
+  "name": "random-msg-arc",
+  "version": "1.0.0",
+  "description": "Random String Message Arciniega",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauArciniega2797/random-msg-arc.git"
+  },
+  "keywords": [],
+  "author": "Laura Cecilia Arciniega Roque <arciniega1497@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg-arc": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "^0.0.0"
+  }
+}
